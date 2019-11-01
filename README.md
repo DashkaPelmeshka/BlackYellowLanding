@@ -1,4 +1,4 @@
 # BlackYellowLanding
-[Adaptive animated landing page made with Bootstrap, BEM](https://htmlpreview.github.io/?https://github.com/DashkaPelmeshka/BlackYellowLanding/blob/master/index.html)
+[Adaptive animated landing page made with Bootstrap, BEM](https://dashkapelmeshka.github.io/BlackYellowLanding/)
 
 ![website](screenshot.png "Screenshot")
